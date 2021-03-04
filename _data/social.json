@@ -1,12 +1,12 @@
 [
   {
-    "name": "Github",
+    "name": "Facebook",
     "link": "https://github.com/zerostaticthemes/jekyll-serif-theme",
-    "image": "images/social/github.svg"
+    "image": "images/social/facebook.svg"
   },
   {
-    "name": "Twitter",
+    "name": "Instagram",
     "link": "https://twitter.com/zerostaticio",
-    "image": "images/social/twitter.svg"
+    "image": "images/social/instagram.svg"
   }
 ]
