@@ -37,6 +37,7 @@
   background-color: $white-offset;
   padding: 30px;
   border-radius: 3px;
+  // TODO Review this, as gets odd if widhth of screen reduces
   height: 122pt;
   .team-image {
     height: 90px;
@@ -46,6 +47,7 @@
     overflow: hidden;
     img {
       width: 90px;
+      // TODO This might be removed once images are that tight
       height: 90px;
       object-fit: cover;
     }
