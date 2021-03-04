@@ -3,7 +3,7 @@ title: "Ana Magalhães"
 date: 2021-03-04T10:47:58+10:00
 featured: true
 weight: 1
-layout: service
+layout: team
 ---
 
 ![Ana Magalhães](/images/team/ana.webp)

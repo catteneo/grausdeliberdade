@@ -3,10 +3,11 @@ title: "Sara Oliveira Costa"
 date: 2021-03-04T10:47:58+10:00
 featured: true
 weight: 1
-layout: service
+layout: team
 ---
 
 ![Sara Costa](/images/team/sara.webp)
+
 ## PERCURSO PROFISSIONAL 
 
 Nascida no Porto, concluiu o Mestrado Integrado em Psicologia – área de especialização em Psicologia Clínica e da Saúde pela Faculdade de Psicologia e Ciências da Educação da Universidade do Porto, tendo-se especializado em Psicoterapia pela Sociedade Portuguesa de Psicoterapias Construtivistas.
