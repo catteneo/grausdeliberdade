@@ -37,6 +37,7 @@
   background-color: $white-offset;
   padding: 30px;
   border-radius: 3px;
+  height: 122pt;
   .team-image {
     height: 90px;
     width: 90px;
@@ -45,6 +46,8 @@
     overflow: hidden;
     img {
       width: 90px;
+      height: 90px;
+      object-fit: cover;
     }
   }
 }
