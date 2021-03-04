@@ -1,12 +1,12 @@
 ---
-title: "Sage Kirk"
-date: 2018-11-19T10:47:58+10:00
+title: 'Sara Costa'
+date: 2018-12-20T13:44:23+10:00
 draft: false
-image: "images/team/sage-kirk-485982-unsplash.jpg"
-jobtitle: "Accounting Partner"
-linkedinurl: "https://www.linkedin.com/example2"
+image: 'images/team/sara.webp'
+jobtitle: 'Psicóloga Clínica Psicoterapeuta'
+linkedinurl: "/team/bio/sara/"
 promoted: true
-weight: 2
+weight: 3
 layout: team
 ---
 

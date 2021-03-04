@@ -1,5 +1,5 @@
 ---
-title: Team
+title: Equipa
 layout: teams
 permalink: /team/
 intro_image_absolute: true
