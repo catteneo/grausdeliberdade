@@ -1,12 +1,13 @@
 ---
-title: Jekyll Serif Theme
+title: Graus de Liberdade
 layout: home
 description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
-intro_image: "images/illustrations/pointing.svg"
-intro_image_absolute: true
-intro_image_hide_on_mobile: true
+intro_image: "images/illustrations/graus.svg"
+intro_image_absolute: false
+intro_image_hide_on_mobile: false
 ---
 
-# Serif - A Jekyll Business Theme.
+# Graus de Liberdade
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+Ao longo da nossa vida​, são diversos os constrangimentos com os quais nos deparamos, obstáculos que temos de enfrentar, momentos difíceis ruturas, indecisões, encruzilhadas. Por vezes​, ​enredados nas preocupações, receios ou incertezas, em modo de “piloto automático” vamos restringindo o nosso espaço de liberdade e limitando as atividades em que participamos, os lugares, as relações ou os sonhos.
+<!-- Através de uma abordagem transdiagnóstica, não patologizante, pretende-se compreender os mecanismos de resposta e criar Graus de Liberdade para uma escolha mais consciente, autodeterminada e coerente.  -->
