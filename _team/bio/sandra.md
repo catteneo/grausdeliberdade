@@ -1,6 +1,6 @@
 ---
 title: "Sandra Guerreiro"
-date: 2018-11-18T12:33:46+10:00
+date: 2021-03-04T10:47:58+10:00
 featured: true
 weight: 1
 layout: service
@@ -8,7 +8,7 @@ layout: service
 
 ![Sandra Guerreiro](/images/team/sandra.webp)
 
-# PERCURSO PROFISSIONAL 
+## PERCURSO PROFISSIONAL 
 
 Licenciada em Psicologia (1996), Pós-graduação em Psicoterapia e Orientação Vocacional (2001) e Doutoramento em Psicologia (2014) pela FPCEUP.
 

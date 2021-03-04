@@ -1,6 +1,6 @@
 ---
 title: "Ana Magalhães"
-date: 2018-11-18T12:33:46+10:00
+date: 2021-03-04T10:47:58+10:00
 featured: true
 weight: 1
 layout: service
@@ -8,14 +8,18 @@ layout: service
 
 ![Ana Magalhães](/images/team/ana.webp)
 
-# PERCURSO PROFISSIONAL 
+## PERCURSO PROFISSIONAL 
 
-Licenciada em Psicologia (1996), Pós-graduação em Psicoterapia e Orientação Vocacional (2001) e Doutoramento em Psicologia (2014) pela FPCEUP.  
+Licenciada em Psicologia e mestrado integrado em Neuropsicologia Clínica (2015) pela Universidade Católica Portuguesa. 
 
-Trabalha no CRPG – Centro de Reabilitação Profissional de Gaia desde 2001; nesta instituição tem como principal atividade clínica a avaliação e a reabilitação neuropsicológica.  
+Membro efetivo da Ordem dos Psicólogos Portugueses – Cédula Profissional nº 24362. 
 
-É professora convidada no Instituto de Ciências da Saúde da Universidade Católica, e no Instituto Superior de Ciências de Saúde do Norte (CESPU). Orientadora de mestrados e doutoramento na área da Neuropsicologia. 
+Percurso profissional desenvolvido no âmbito da Neuropsicologia Clínica, no contexto da reabilitação neuropsicológica em idade adulta. Experiência em processo de avaliação neuropsicológica e reabilitação cognitiva, tanto em lesão cerebral adquirida como doenças degenerativas. 
 
-É membro associado da European Brain Injury Society e membro fundador da QOLIBRI Society e da RedeReab. É membro do Comité Editorial da Revista Iberoamericana de Neuropsicologia. É membro do conselho fiscal da Sociedade Portuguesa de Neuropsicologia (SNPsy).  
+Consulta de Psicologia com recurso aos modelos das Terapias Cognitivo-Comportamentais de 3ª geração (Terapia da Aceitação e Compromisso, Terapia Focada na Compaixão e intervenções baseadas no Mindfulness). 
 
-Membro efetivo da Sociedade Portuguesa de Psicoterapia Construtivista. Participa em Grupo de Supervisão e Intervisão em Psicoterapia. É membro efetivo da ordem dos Psicólogos Portugueses – Cédula Profissional nº 3687. Especialista em Psicologia Clínica e da Saúde, com especialidade avançada em Neuropsicologia e em Psicoterapia.
+### Formação Complementar
+* Curso Intensivo de Primeiros Socorros Psicológicos, em ReConstruir. 
+* Curso de introdução às terapias cognitivo-comportamentais de terceira geração, com Mariana Carvalho. 
+* Workshop “Lesão cerebral adquirida: intervenção com as famílias”, com Juan Arango. 
+* Workshop “Sexualidade após lesão encefálica adquirida: avaliação e intervenção”, com Juan Arango. 
