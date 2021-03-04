@@ -8,4 +8,6 @@ intro_image_hide_on_mobile: false
 
 # Services that grow with your business
 
+<span style="color:red; font-weight:bold">FIXME</span>
+
 Aliquam erat volutpat. Morbi nisl tortor, dignissim eget efficitur vel, auctor non felis. Fusce quis viverra mi. Aenean quis massa pretium, ullamcorper nisi eget, hendrerit odio.
