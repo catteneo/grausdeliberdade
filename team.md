@@ -6,7 +6,7 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-# A nossa equipa
+# A Nossa Equipa
 
 <span style="color:red; font-weight:bold">FIXME</span>
 
