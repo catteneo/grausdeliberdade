@@ -1,0 +1,22 @@
+[
+  {
+    "name": "ERS",
+    "link": "https://www.ers.pt/",
+    "image": "images/certs/ers.png"
+  },
+  {
+    "name": "OPP",
+    "link": "https://www.ordemdospsicologos.pt/",
+    "image": "images/certs/opp.png"
+  },
+  {
+    "name": "Const",
+    "link": "https://construtivistas.pt/",
+    "image": "images/certs/construtivistas.png"
+  },
+  {
+    "name": "IFS",
+    "link": "https://ifs-institute.com/",
+    "image": "images/certs/ifs.png"
+  }
+]
