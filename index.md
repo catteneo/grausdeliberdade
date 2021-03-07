@@ -1,5 +1,5 @@
 ---
-title: Graus de Liberdade
+# title: Graus de Liberdade
 layout: home
 description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
 intro_image: "images/illustrations/graus.svg"
