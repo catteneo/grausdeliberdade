@@ -7,9 +7,9 @@ google_analytics_id: ""
 homepage:
   show_call_box: false
 logo:
-  mobile: "images/logo/graus_nome.svg"
-  desktop: "images/logo/graus_nome.svg"
-  desktop_height: "36px"
+  mobile: "images/home.svg"
+  desktop: "images/home.svg"
+  desktop_height: "32px"
 footer:
   # copyright_text: 'Free Jekyll theme by <a class="zerostatic" href="https://www.zerostatic.io">www.zerostatic.io</a>'
 
