@@ -18,5 +18,10 @@
     "name": "IFS",
     "link": "https://ifs-institute.com/",
     "image": "images/certs/ifs.png"
+  },
+  {
+    "name": "SPNPsy",
+    "link": "https://ifs-institute.com/",
+    "image": "images/certs/spnp.svg"
   }
 ]
