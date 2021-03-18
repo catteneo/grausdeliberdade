@@ -6,7 +6,6 @@ bodyClass: page-about
 ---
 
 <!-- # Psicoterapia & Neuropsicologia  -->
-<span style="color:red; font-weight:bold">FIXME - add image</span>
 
 A Graus de Liberdade nasce em 2020, do desejo conjunto de criar um espaço de Psicoterapia e Neuropsicologia.
 

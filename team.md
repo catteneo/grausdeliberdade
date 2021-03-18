@@ -7,7 +7,3 @@ intro_image_hide_on_mobile: false
 ---
 
 # A Nossa Equipa
-
-<span style="color:red; font-weight:bold">FIXME</span>
-
-Our team of qualified accountants and financial consultants can help your business at any stage of it's growth.
