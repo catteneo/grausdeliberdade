@@ -1,4 +1,4 @@
-baseurl: ''
+baseurl: 'https://catteneo.github.io/grausdeliberdade/'
 exclude: ['README.md']
 permalink: pretty
 title: 'Graus de Liberdade'
