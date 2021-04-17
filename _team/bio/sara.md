@@ -6,7 +6,7 @@ weight: 1
 layout: team
 ---
 
-![Sara Costa](/images/team/sara.webp)
+![Sara Costa]({{site.baseurl}}/images/team/sara.webp)
 
 ## PERCURSO PROFISSIONAL 
 

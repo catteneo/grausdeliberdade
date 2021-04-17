@@ -6,7 +6,7 @@ weight: 1
 layout: team
 ---
 
-![Sandra Guerreiro](/images/team/sandra.webp)
+![Sandra Guerreiro]({{site.baseurl}}/images/team/sandra.webp)
 
 ## PERCURSO PROFISSIONAL 
 

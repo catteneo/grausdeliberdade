@@ -6,7 +6,7 @@ weight: 1
 layout: team
 ---
 
-![Ana Magalhães](/images/team/ana.webp)
+![Ana Magalhães]({{site.baseurl}}/images/team/ana.webp)
 
 ## PERCURSO PROFISSIONAL 
 
