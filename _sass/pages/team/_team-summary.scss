@@ -37,8 +37,9 @@
   background-color: $white-offset;
   padding: 30px;
   border-radius: 3px;
-  // TODO Review this, as gets odd if widhth of screen reduces
-  height: 122pt;
+  height: 100%;
+  display: flex;
+  align-items: center;  
   .team-image {
     height: 90px;
     width: 90px;
