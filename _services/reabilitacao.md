@@ -11,8 +11,14 @@ A reabilitação neuropsicológica baseia-se em dois mecanismos fundamentais: a 
 
 Tem como principal objetivo compensar os défices cognitivos, emocionais e/ou comportamentais, capacitando a pessoa para atingir o seu máximo potencial de recuperação nos domínios psicossocial, de lazer e vocacional.
 
-O programa de reabilitação tem habitualmente uma componente de estimulação cognitiva das funções afetadas (ex. atenção, memória, funções executivas) e outra componente de treino e adequação de estratégias de compensação dos défices. Utilizam-se materiais e plataformas especificamente desenvolvidas para o efeito e com evidência de resultados comprovada. A psicoeducação sobre as funções mentais e processos de recuperação, pode ser dirigida não só à própria pessoa, mas também a familiares e outros significativos. A intervenção em contexto real poderá complementar o trabalho de gabinete.
+Componentes do programa de reabilitação:
+* componente de estimulação cognitiva das funções afetadas (ex. atenção, memória, funções executivas); 
+* componente de treino e adequação de estratégias de compensação dos défices.
 
-### A quem se dirige?
+Utilizam-se materiais e plataformas especificamente desenvolvidas para o efeito e com evidência de resultados comprovada. 
 
-A pessoas com défices cognitivos resultantes de lesão cerebral adquirida, ou a pessoas com doenças degenerativas (ex: doença de Alzheimer, doença de Parkinson), neste caso tem como objetivo principal retardar esse mesmo declínio e prolongar a funcionalidade e autonomia.
+A quem se dirige:
+* pessoas com défices cognitivos resultantes de lesão cerebral adquirida;
+* pessoas com doenças degenerativas (ex: doença de Alzheimer, doença de Parkinson), neste caso tem como objetivo principal retardar esse mesmo declínio e prolongar a funcionalidade e autonomia.
+
+A psicoeducação sobre as funções mentais e processos de recuperação, pode ser dirigida não só à própria pessoa, mas também a familiares e outros significativos. A intervenção em contexto real poderá complementar o trabalho de gabinete.

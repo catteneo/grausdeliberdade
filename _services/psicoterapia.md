@@ -7,9 +7,11 @@ weight: 5
 layout: service
 ---
 
-A psicoterapia é um processo colaborativo de exploração do funcionamento psicológico baseado na relação entre o cliente e o terapeuta, com o intuito de reduzir o sofrimento psicológico, promover o desenvolvimento pessoal e a possibilidade de desenvolver uma maneira mais produtiva e feliz de estar na vida. O processo psicoterapêutico desenvolve-se no contexto de uma relação de confiança que, através da expressão verbal, corporal, ou outras, permite que o psicoterapeuta e o cliente cooperem no sentido da mudança.  
+A psicoterapia é um processo colaborativo de exploração do funcionamento psicológico baseado na relação entre o cliente e o terapeuta, com o intuito de reduzir o sofrimento psicológico, promover o desenvolvimento pessoal e a possibilidade de desenvolver uma maneira mais produtiva e feliz de estar na vida.
 
-<u>Abordagens psicoterapêuticas utilizadas</u>:
+O processo psicoterapêutico desenvolve-se no contexto de uma relação de confiança que, através da expressão verbal, corporal, ou outras, permite que o psicoterapeuta e o cliente cooperem no sentido da mudança.  
+
+Abordagens psicoterapêuticas utilizadas:
 * Sistemas Familiares Internos (IFS); 
 * Terapia Focada nas Emoções (TFE); 
 * Terapia Cognitivo Comportamental (CBT); 
