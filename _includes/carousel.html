@@ -2,8 +2,8 @@
 {% assign letters = letterstring | split: ',' %}
 
 <!-- Added new bootstrap variables to use in carousel sizing -->
-<div class="carousel__holder pb-carousel_mobile pb-md-carousel_desktop ">
-    <div class="carousel">
+<div class="carousel__holder pb-carousel_7 pb-md-carousel_6 pb-lg-carousel_5 pb-xl-carousel_4 ">
+    <div class="carousel col-12 col-lg-10 col-xl-8">
         {% for item in site.data.carousel.images %}
           <input class="carousel__activator" type="radio" name="carousel" id="{{ letters[forloop.index0] }}" {% if forloop.first %}checked="checked"{% endif %} />
         {% endfor %}
@@ -41,7 +41,7 @@
 </div>
 
 <style>
-.carousel__holder {width: 100%; position: relative; }
+.carousel__holder {width: 100%; position: relative; display: flex; justify-content: center; background-color: #E6F4F1}
 .carousel {
   height: 100%;
   width: 100%;
