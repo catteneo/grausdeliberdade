@@ -5,7 +5,7 @@ draft: false
 image: "images/team/sandra_avatar.webp"
 jobtitle: "Psicóloga Clínica Psicoterapeuta"
 linkedinurl: "/team/bio/sandra/"
-email: sandra.guerreiro@grausdeliberdade.pt
+email: sbbguerreiro@gmail.com
 phone: 968261125
 promoted: true
 weight: 2

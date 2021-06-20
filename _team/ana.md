@@ -5,7 +5,7 @@ draft: false
 image: "images/team/ana_avatar.webp"
 jobtitle: "Psicóloga Clínica"
 linkedinurl: "/team/bio/ana/"
-email: ana.magalhaes@grausdeliberdade.pt
+email: anapeixotomagalhaes@gmail.com
 phone: 916684658
 promoted: true
 weight: 1
