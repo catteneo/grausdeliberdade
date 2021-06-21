@@ -1,7 +1,7 @@
 ---
 # title: Graus de Liberdade
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+description: Graus de Liberdade - Psicoterapia e Neuropsicologia
 intro_image: "images/illustrations/graus.svg"
 intro_image_absolute: false
 intro_image_hide_on_mobile: false
