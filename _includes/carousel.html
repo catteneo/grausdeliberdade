@@ -1,7 +1,6 @@
 {% assign letterstring = "a,b,c,d,e,f,g,h,i,j,k,l,m,n" %}
 {% assign letters = letterstring | split: ',' %}
 
-<!-- Added new bootstrap variables to use in carousel sizing -->
 <div class="carousel__holder pb-carousel_7 pb-md-carousel_6 pb-lg-carousel_5 pb-xl-carousel_4 ">
     <div class="carousel col-12 col-lg-10 col-xl-8">
         {% for item in site.data.carousel.images %}
