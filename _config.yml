@@ -7,8 +7,8 @@ google_analytics_id: "G-RFMHFLDVB1"
 homepage:
   show_call_box: false
 logo:
-  mobile: "images/home.svg"
-  desktop: "images/home.svg"
+  mobile: "images/logo/logo_name_side.png"
+  desktop: "images/logo/logo_name_side.png"
   desktop_height: "32px"
 footer:
   # copyright_text: 'Free Jekyll theme by <a class="zerostatic" href="https://www.zerostatic.io">www.zerostatic.io</a>'
@@ -18,7 +18,7 @@ seo:
   meta_og_type: "website"
   meta_og_url: "https://grausdeliberdade.pt"
   # FIXME - Update with final URL
-  meta_og_image: "https://www.catteniano.space/images/illustrations/graus.png"
+  meta_og_image: "https://www.catteneo.space/images/illustrations/graus.png"
   meta_og_description: "Graus de Liberdade - Psicoterapia e Neuropsicologia"
   # meta_twitter_card: "summary"
   # meta_twitter_site: "@zerostaticio"
