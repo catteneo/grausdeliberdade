@@ -10,14 +10,14 @@
     "image": "images/certs/opp.png"
   },
   {
-    "name": "Const",
-    "link": "https://construtivistas.pt/",
-    "image": "images/certs/construtivistas.png"
-  },
-  {
     "name": "IFS",
     "link": "https://ifs-institute.com/",
     "image": "images/certs/ifs.png"
+  },
+  {
+    "name": "Const",
+    "link": "https://construtivistas.pt/",
+    "image": "images/certs/construtivistas.png"
   },
   {
     "name": "SPNPsy",
