@@ -16,9 +16,14 @@ $link-decoration: none;
 $link-hover-color: lighten($primary, 10%);
 $link-hover-decoration: none;
 
+@font-face {
+  font-family: Gotham Rounded Book;
+  src: url('../fonts/GothamRounded-Book.woff');
+}
+
 // Fonts
-$font-family-base: Helvetica, Arial, sans-serif, -apple-system;
-$font-family-heading: 'Playfair Display', serif, -apple-system;
+$font-family-base: 'Gotham Rounded Book', Helvetica, Arial, sans-serif, -apple-system;
+$font-family-heading: 'Gotham Rounded Book', 'Playfair Display', serif, -apple-system;
 
 // Footer
 $footer-background-color: $primary;
