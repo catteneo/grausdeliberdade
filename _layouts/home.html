@@ -6,24 +6,54 @@ bodyClass: page-home
 
 <div class="intro">
   <div class="container">
-    <div class="row justify-content-start" style="text-align: justify">
-      <div class="col-12 col-md-7 col-lg-6 order-2 order-md-1 pt-4 pt-md-0">
+    {% if page.intro_image %}
+    <div class="col-12 col-lg-8 position-relative mx-auto mt-2 mt-lg-4 mb-4">
+      <img alt={{ page.title }}
+        class="intro-image{% if page.intro_image_absolute %} intro-image-absolute{% endif %}{% if page.intro_image_hide_on_mobile %} intro-image-hide-mobile{% endif %}"
+        src="{{ page.intro_image | relative_url }}" />
+    </div>
+    {% endif %}
+    <div class="row justify-content-center" style="text-align: center">
+      <div class="col-12">
         {{ content }}
         {% if site.homepage.show_call_box %}
           {% include call.html show_button=true %}
         {% endif %}
       </div>
-      {% if page.intro_image %}
-      <div class="col-12 col-md-5 col-lg-6 order-1 order-md-2 position-relative">
-        <img alt={{ page.title }} class="intro-image{% if page.intro_image_absolute %} intro-image-absolute{% endif %}{% if page.intro_image_hide_on_mobile %} intro-image-hide-mobile{% endif %}" src="{{ page.intro_image | relative_url }}" />
+
+<div class="strip strip-grey">
+  <div class="container pt-4 pt-md-6">
+    <div class="row justify-content-center">
+      {% assign promoted_teams = site.team | where: "promoted", true | sort: "weight" %}
+      {% for team in promoted_teams %}
+      <div class="col-12 col-md-6 col-lg-4 pb-4">
+        <div class="team-summary-home pb-2"><a href="{{ site.baseurl }}{{ team.linkedinurl }}">
+          <div class="team-meta">
+              {% if team.image %}
+              <div class="team-image">
+                  <img alt="{{ team.title }}" class="img-fluid pb-2" src="{{ team.image | relative_url }}" />
+              </div>
+              {% endif %}
+              <h2 class="team-name">{{ team.title }}</h2>
+              <p class="team-description">{{ team.jobtitle }}</p>
+              {% if team.linkedinurl %}
+              <a href="{{ site.baseurl }}{{ team.linkedinurl }}">Biografia</a>
+              {% endif %}
+          </div>
+        </div></a>
       </div>
-      {% endif %}
+      {% endfor %}
     </div>
   </div>
 </div>
 
 <div class="strip strip-grey">
-  <div class="container pt-4 pb-4 pt-md-4 pb-md-4">
+  <div class="container pt-4 pt-md-8 pb-4">
+    <div class="row justify-content-center pb-4">
+      <div class="col-auto">
+        <a class="button button-primary" href="{{site.baseurl}}/services">Conheça todos os Serviços</a>
+      </div>
+    </div>  
     <div class="row justify-content-center">
       {% assign promoted_services = site.services | where: "featured", true | sort: "weight" %}
       {% for service in promoted_services %}

@@ -2,8 +2,8 @@
 title: "Sandra Guerreiro"
 date: 2021-03-04T10:47:58+10:00
 draft: false
-image: "images/team/sandra_avatar.webp"
-jobtitle: "Psicóloga Clínica Psicoterapeuta"
+image: "images/team/sandra_home.webp"
+jobtitle: "Psicóloga Clínica</br>Psicoterapeuta"
 linkedinurl: "/team/bio/sandra/"
 email: sbbguerreiro@gmail.com
 phone: 968261125

@@ -1,9 +1,9 @@
 ---
-title: 'Sara Costa'
+title: 'Sara Oliveira Costa'
 date: 2021-03-04T10:47:58+10:00
 draft: false
-image: 'images/team/sara_avatar.webp'
-jobtitle: 'Psicóloga Clínica Psicoterapeuta'
+image: 'images/team/sara_home.webp'
+jobtitle: 'Psicóloga Clínica</br>Psicoterapeuta'
 linkedinurl: "/team/bio/sara/"
 email: saraoliveiracosta.psicologa@gmail.com 
 phone: 919113943

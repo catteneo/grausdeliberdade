@@ -53,3 +53,43 @@
     }
   }
 }
+
+.team-summary-home {
+  background-color: $white;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  text-align: center;
+  max-width: 350px;
+  margin: 0 auto;
+  align-self: stretch;
+  .team-image {
+    img {
+      width: 100%;
+      height: 100%;
+      object-fit: contain;
+    }
+  }
+  .team-meta {
+    flex: 1;
+    h2 {
+      margin: 0;
+      font-size: 22px;
+      font-weight: normal;
+    }
+    p {
+      color: $black;
+      text-transform: uppercase;
+      margin: 0;
+      font-size: 12px;
+      width: 300px;
+      height: 52px;
+      font-weight: 500;
+      display: table-cell;
+      vertical-align: middle;
+    }
+  }
+  .team-content {
+    flex: 1 0 100%;
+  }
+}

@@ -2,8 +2,8 @@
 # title: Graus de Liberdade
 layout: home
 description: Graus de Liberdade - Psicoterapia e Neuropsicologia
-intro_image: "images/illustrations/graus.svg"
-intro_image_absolute: false
+intro_image: "images/logo/graus_nome.svg"
+intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
