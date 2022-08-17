@@ -146,6 +146,9 @@ models:
       - type: image
         name: intro_image
         description: Image displayed at in the pages intro section
+      - type: video
+        name: intro_video
+        description: Image displayed at in the pages intro section
       - type: boolean
         name: intro_image_absolute
         description: Should the image overflow or be contained
