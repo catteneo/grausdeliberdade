@@ -33,7 +33,7 @@ bodyClass: page-home
       {% assign promoted_teams = site.team | where: "promoted", true | sort: "weight" %}
       {% for team in promoted_teams %}
       <div class="col-12 col-md-6 col-lg-4 pb-4">
-        <div class="team-summary-home pb-2"><a href="{{ site.baseurl }}{{ team.linkedinurl }}">
+        <div class="team-summary-home pb-2"><a href="{{ site.baseurl }}/team#{{team.header}}">
           <div class="team-meta">
               {% if team.image %}
               <div class="team-image">
@@ -43,7 +43,7 @@ bodyClass: page-home
               <h2 class="team-name">{{ team.title }}</h2>
               <p class="team-description">{{ team.jobtitle }}</p>
               {% if team.linkedinurl %}
-              <a href="{{ site.baseurl }}{{ team.linkedinurl }}">Biografia</a>
+              <a href="{{ site.baseurl }}/team#{{team.header}}">Biografia</a>
               {% endif %}
           </div>
         </div></a>
