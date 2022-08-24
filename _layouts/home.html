@@ -37,7 +37,7 @@ bodyClass: page-home
           <div class="team-meta">
               {% if team.image %}
               <div class="team-image">
-                  <img alt="{{ team.title }}" class="img-fluid pb-2" src="{{ team.image | relative_url }}" />
+                  <img alt="{{ team.title }}" class="img-fluid pb-2" src="{{ team.image_home | relative_url }}" />
               </div>
               {% endif %}
               <h2 class="team-name">{{ team.title }}</h2>

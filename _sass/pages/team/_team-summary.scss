@@ -93,3 +93,20 @@
     flex: 1 0 100%;
   }
 }
+
+.team-summary-content {
+  background-color: $white;
+  display: inline;
+  flex-wrap: wrap;
+  flex-direction: row;
+  text-align: center;
+  margin: 0 auto;
+  align-self: stretch;
+  .team-image {
+    img {
+      width: 100%;
+      height: 100%;
+      object-fit: contain;
+    }
+  }
+}

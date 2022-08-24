@@ -3,7 +3,8 @@ header: ana
 title: "Ana Magalhães"
 date: 2021-03-04T10:47:58+10:00
 draft: false
-image: "images/team/ana_home.webp"
+image_home: "images/team/ana_home.webp"
+image: "images/team/ana_big.webp"
 jobtitle: "Psicóloga Clínica"
 linkedinurl: "/team/bio/ana/"
 email: anapeixotomagalhaes@gmail.com
