@@ -64,11 +64,11 @@ bodyClass: page-home
       {% assign promoted_services = site.services | where: "featured", true | sort: "weight" %}
       {% for service in promoted_services %}
       <div class="col-12 col-md-6 col-lg-4 mb-2">
-        <div class="feature d-flex justify-content-center">
+        <div class="feature d-flex justify-content-center"><a href="{{ site.baseurl }}/services#{{service.header}}" >
           <h2 class="feature-title mt-0 mb-0 mt-md-1 mb-md-1">
-            <a class="align-items-center" href="{{site.baseurl}}{{ service.url }}">{{ service.title }}</a>
+            <a class="align-items-center" href="{{site.baseurl}}/services#{{service.header}}">{{ service.title }}</a>
           </h2>
-        </div>
+        </div></a>
       </div>
       {% endfor %}
 
