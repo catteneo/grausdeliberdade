@@ -14,8 +14,6 @@ weight: 1
 layout: team
 ---
 
-# Ana Magalhães
-
 Licenciada em Psicologia e mestrado integrado em Neuropsicologia Clínica (2015) pela Universidade Católica Portuguesa. 
 
 Membro efetivo da Ordem dos Psicólogos Portugueses – Cédula Profissional nº 24362. 

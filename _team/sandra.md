@@ -14,8 +14,6 @@ weight: 2
 layout: team
 ---
 
-# Sandra Guerreiro
-
 Licenciada em Psicologia (1996), Pós-graduação em Psicoterapia e Orientação Vocacional (2001) e Doutoramento em Psicologia (2014) pela FPCEUP.
 
 Trabalha no CRPG – Centro de Reabilitação Profissional de Gaia desde 2001; nesta instituição tem como principal atividade clínica a avaliação e a reabilitação neuropsicológica.

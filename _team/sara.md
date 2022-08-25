@@ -14,8 +14,6 @@ weight: 3
 layout: team
 ---
 
-# Sara Oliveira Costa
-
 Nascida no Porto, concluiu o Mestrado Integrado em Psicologia – área de especialização em Psicologia Clínica e da Saúde pela Faculdade de Psicologia e Ciências da Educação da Universidade do Porto, tendo-se especializado em Psicoterapia pela Sociedade Portuguesa de Psicoterapias Construtivistas.
 
 Trabalha no SASUP – Serviços de Ação Social da Universidade do Porto, nesta instituição tem como principal atividade clínica a avaliação, a intervenção psicológica, a psicoterapia e a investigação em contexto de ensino superior; exerce também clínica privada na área da Psicoterapia e da Neuropsicologia com adultos e idosos.
