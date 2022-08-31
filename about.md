@@ -1,13 +1,11 @@
 ---
 title: 'A Nossa História'
 date: 2018-02-22T17:01:34+07:00
-layout: page
+image: "images/about/about.jpg"
+layout: about
 bodyClass: page-about
 ---
 
-<!-- # Psicoterapia & Neuropsicologia  -->
-
-<br>
 A Graus de Liberdade nasce em 2020 e do desejo conjunto de criar um espaço de Psicoterapia e Neuropsicologia.
 
 O projeto começa a germinar em pleno confinamento, num contexto de pandemia em que o distanciamento físico é absolutamente necessário e o ambiente on-line não satisfaz todos os requisitos para a construção de uma relação terapêutica colaborativa. Moveu-nos a ideia de criar um Espaço seguro, intimista e com alma, no coração da Cidade do Porto onde habitamos e trabalhamos.
