@@ -20,7 +20,7 @@ layout: default
 
       {% for partner in site.data.partners %}
       <div class="col-12 col-md-6 col-lg-4 mb-2">
-        <div class="partner-main"><a href="{{ site.baseurl }}{{ partner.url }}">
+        <div class="partner-main"><a href="{{ site.baseurl }}{{ partner.url }}" target="blank">
           {% if partner.image %}
           <div class="partner-image mb-1"><img alt="{{ partner.title }} logo" src="{{ partner.image | relative_url }}" /></div>
           {% endif %}
