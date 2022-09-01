@@ -2,7 +2,7 @@
 header: reabilitacao
 title: "Reabilitação Neuropsicológica"
 longtitle: "Reabilitação Neuropsicológica e Estimulação Cognitiva"
-image: "images/services/reabilitacao.jpg"
+image: "images/services/reabilitacao.webp"
 date: 2018-11-18T12:33:46+10:00
 featured: true
 weight: 6

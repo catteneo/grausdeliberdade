@@ -2,7 +2,7 @@
 header: avaliacaoneuro
 title: "Avaliação Neuropsicológica"
 longtitle: "Avaliação Neuropsicológica"
-image: "images/services/avaliacaoneuro.jpg"
+image: "images/services/avaliacaoneuro.webp"
 date: 2018-11-18T12:33:46+10:00
 featured: true
 weight: 1

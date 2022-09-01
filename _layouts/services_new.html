@@ -14,8 +14,8 @@ bodyClass: page-team-list
                 {{ service.content }}
             </div>
             <div class="col-12 col-md-5 order-1 order-md-2 pb-3 pb-md-0">
-                <div class="team-summary-content team-image">
-                    <div class="team-image">
+                <div class="service-summary-content service-image">
+                    <div class="service-image">
                         <img alt="{{ service.title }}" class="img-fluid" src="{{ service.image | relative_url }}" />
                     </div>
                 </div>
@@ -24,7 +24,7 @@ bodyClass: page-team-list
     </div>
 </div>
 {% else %}
-<div id="{{service.header}}" class="strip-grey pt-4">
+<div id="{{service.header}}" class="strip-grey pt-4 pb-2">
     <div class="container">
         <div class="row">
             <div class="col-12 col-md-7 order-2 order-md-2">
@@ -32,8 +32,8 @@ bodyClass: page-team-list
                 {{ service.content }}
             </div>
             <div class="col-12 col-md-5 order-1 order-md-1 pb-3 pb-md-0">
-                <div class="team-summary-content team-image">
-                    <div class="team-image">
+                <div class="service-summary-content service-image">
+                    <div class="service-image">
                         <img alt="{{ service.title }}" class="img-fluid" src="{{ service.image | relative_url }}" />
                     </div>
                 </div>

@@ -2,7 +2,7 @@
 header: psicologia
 title: "Psicologia"
 longtitle: "Psicologia"
-image: "images/services/psicologia.jpg"
+image: "images/services/psicologia.webp"
 date: 2018-11-28T15:14:39+10:00
 featured: true
 weight: 2

@@ -1,7 +1,7 @@
 ---
 title: 'A Nossa História'
 date: 2018-02-22T17:01:34+07:00
-image: "images/about/about.jpg"
+image: "images/about/about.webp"
 layout: about
 bodyClass: page-about
 ---

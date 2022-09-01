@@ -2,7 +2,7 @@
 header: psicoterapia
 title: "Psicoterapia"
 longtitle: "Psicoterapia"
-image: "images/services/psicoterapia.jpg"
+image: "images/services/psicoterapia.webp"
 date: 2018-11-28T15:14:54+10:00
 featured: true
 weight: 5
