@@ -13,7 +13,11 @@ bodyClass: page-team-list
         <div class="col-12 col-md-5 order-1 order-md-2 pb-3 pb-md-0">
             <div class="service-summary-content service-image">
                 <div class="service-image">
-                    <img alt="{{ page.title }}" class="img-fluid" src="{{ page.image | relative_url }}" />
+                    <picture>
+                        <source srcset="{{ page.image | relative_url }}.webp" type="image/webp">
+                        <source srcset="{{ page.image | relative_url }}.jpg" type="image/jpeg">
+                        <img alt="{{ page.title }}" class="img-fluid" src="{{ page.image | relative_url }}.jpg"/>
+                    </picture>                          
                 </div>
             </div>
         </div>

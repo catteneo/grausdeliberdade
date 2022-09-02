@@ -17,7 +17,11 @@ bodyClass: page-team-list
             <div class="col-12 col-md-5 order-1 order-md-2 pb-3 pb-md-0">
                 <div class="team-summary-content team-image">
                     <div class="team-image">
-                        <img alt="{{ team.title }}" class="img-fluid" src="{{ team.image | relative_url }}" />
+                        <picture>
+                            <source srcset="{{ team.image | relative_url }}.webp" type="image/webp">
+                            <source srcset="{{ team.image | relative_url }}.jpg" type="image/jpeg">
+                            <img alt="{{ team.title }}" class="img-fluid pb-2" src="{{ team.image | relative_url }}.jpg">
+                        </picture>                                  
                     </div>
                 </div>
             </div>
@@ -35,7 +39,11 @@ bodyClass: page-team-list
             <div class="col-12 col-md-5 order-1 order-md-1 pb-3 pb-md-0">
                 <div class="team-summary-content team-image">
                     <div class="team-image">
-                        <img alt="{{ team.title }}" class="img-fluid" src="{{ team.image | relative_url }}" />
+                        <picture>
+                            <source srcset="{{ team.image | relative_url }}.webp" type="image/webp">
+                            <source srcset="{{ team.image | relative_url }}.jpg" type="image/jpeg">
+                            <img alt="{{ team.title }}" class="img-fluid pb-2" src="{{ team.image | relative_url }}.jpg">
+                        </picture>                                  
                     </div>
                 </div>
             </div>

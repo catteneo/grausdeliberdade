@@ -3,8 +3,8 @@ header: sandra
 title: "Sandra Guerreiro"
 date: 2021-03-04T10:47:58+10:00
 draft: false
-image_home: "images/team/sandra_home.webp"
-image: "images/team/sandra_big.webp"
+image_home: "images/team/sandra_home"
+image: "images/team/sandra_big"
 jobtitle: "Psicóloga Clínica</br>Psicoterapeuta"
 linkedinurl: "/team/bio/sandra/"
 email: sbbguerreiro@gmail.com
