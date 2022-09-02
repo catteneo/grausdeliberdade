@@ -33,7 +33,7 @@ bodyClass: page-home
       {% assign promoted_teams = site.team | where: "promoted", true | sort: "weight" %}
       {% for team in promoted_teams %}
       <div class="col-12 col-md-6 col-lg-4 pb-4">
-        <div class="team-summary-home pb-2"><a href="{{ site.baseurl }}/team#{{team.header}}">
+        <div class="team-summary-home pb-2"><a href="{{ site.baseurl }}/team/#{{team.header}}">
           <div class="team-meta">
               {% if team.image %}
               <div class="team-image">
@@ -47,7 +47,7 @@ bodyClass: page-home
               <h2 class="team-name">{{ team.title }}</h2>
               <p class="team-description">{{ team.jobtitle }}</p>
               {% if team.linkedinurl %}
-              <a href="{{ site.baseurl }}/team#{{team.header}}">Biografia</a>
+              <a href="{{ site.baseurl }}/team/#{{team.header}}">Biografia</a>
               {% endif %}
           </div>
         </div></a>
@@ -61,16 +61,16 @@ bodyClass: page-home
   <div class="container pt-4 pt-md-8 pb-4">
     <div class="row justify-content-center pb-4">
       <div class="col-auto">
-        <a class="button button-primary" href="{{site.baseurl}}/services">Conheça todos os Serviços</a>
+        <a class="button button-primary" href="{{site.baseurl}}/services/">Conheça todos os Serviços</a>
       </div>
     </div>  
     <div class="row justify-content-center">
       {% assign promoted_services = site.services | where: "featured", true | sort: "weight" %}
       {% for service in promoted_services %}
       <div class="col-12 col-md-6 col-lg-4 mb-2">
-        <div class="feature d-flex justify-content-center"><a href="{{ site.baseurl }}/services#{{service.header}}" >
+        <div class="feature d-flex justify-content-center"><a href="{{ site.baseurl }}/services/#{{service.header}}" >
           <h2 class="feature-title mt-0 mb-0 mt-md-1 mb-md-1">
-            <a class="align-items-center" href="{{site.baseurl}}/services#{{service.header}}">{{ service.title }}</a>
+            <a class="align-items-center" href="{{site.baseurl}}/services/#{{service.header}}">{{ service.title }}</a>
           </h2>
         </div></a>
       </div>
