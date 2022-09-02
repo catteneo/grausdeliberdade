@@ -2,7 +2,8 @@
 {% assign letters = letterstring | split: ',' %}
 
 <div class="carousel__holder pb-carousel_7 pb-md-carousel_6 pb-lg-carousel_5 pb-xl-carousel_4 ">
-    <div class="carousel col-12 col-lg-10 col-xl-8">
+    <!-- <div class="carousel col-12 col-lg-10 col-xl-8"> -->
+    <div class="carousel col-12">
         {% for item in site.data.carousel.images %}
           <input class="carousel__activator" type="radio" name="carousel" id="{{ letters[forloop.index0] }}" {% if forloop.first %}checked="checked"{% endif %} />
         {% endfor %}
