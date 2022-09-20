@@ -18,5 +18,10 @@
     "name": "Const",
     "link": "https://construtivistas.pt/",
     "image": "images/certs/construtivistas.png"
+  },
+  {	
+    "name": "SPNPsy",	
+    "link": "https://spnpsy.org/",	
+    "image": "images/certs/spnpsy.png"	
   }
 ]
