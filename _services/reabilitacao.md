@@ -9,7 +9,7 @@ weight: 6
 layout: service
 ---
 
-A reabilitação neuropsicológica baseia-se em dois mecanismos fundamentais: a neuro-plasticidade (capacidade inerente ao cérebro que lhe permite recuperar do dano); e a capacidade de adaptação da pessoa, que lhe permite ajustar-se às novas circunstâncias através da alteração do seu comportamento.
+A reabilitação neuropsicológica baseia-se em dois mecanismos fundamentais: 1) a neuro-plasticidade: capacidade inerente ao cérebro que lhe permite recuperar do dano; e 2) a capacidade de adaptação da pessoa: que  permite ajustar-se às novas circunstâncias através da alteração do seu comportamento.
 
 Tem como principal objetivo compensar os défices cognitivos, emocionais e/ou comportamentais, capacitando a pessoa para atingir o seu máximo potencial de recuperação nos domínios psicossocial, de lazer e vocacional.
 

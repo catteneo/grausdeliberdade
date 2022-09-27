@@ -13,9 +13,8 @@ A psicoterapia é um processo colaborativo de exploração do funcionamento psic
 
 O processo psicoterapêutico desenvolve-se no contexto de uma relação de confiança que, através da expressão verbal, corporal, ou outras, permite que o psicoterapeuta e o cliente cooperem no sentido da mudança.  
 
-Abordagens psicoterapêuticas utilizadas:
+Abordagens psicoterapêuticas utilizadas, baseadas no Modelo Construtivista:
 * Sistemas Familiares Internos (IFS); 
 * Terapia Focada nas Emoções (TFE); 
 * Terapia Cognitivo Comportamental (CBT); 
-* Intervenção Polivagal; 
-* Construtivismo. 
+* Intervenção Polivagal.
