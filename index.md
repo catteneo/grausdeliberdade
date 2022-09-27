@@ -5,7 +5,7 @@ description: Graus de Liberdade - Psicoterapia e Neuropsicologia
 intro_image: "images/logo/graus_nome.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
-intro_video: "images/videos/home.mp4"
+intro_video: "images/videos/home_water.mp4"
 ---
 
 <!-- # Graus de Liberdade -->
