@@ -105,13 +105,15 @@
   .team-image {
     img {
       width: 100%;
-      height: 650px;
+      height: 500px;
       @include media-breakpoint-up(md) {
         height: 400px;
       }    
-
       @include media-breakpoint-up(lg) {
         height: 530px;
+      }    
+      @include media-breakpoint-up(xl) {
+        height: 650px;
       }    
       object-fit: cover;
     }
