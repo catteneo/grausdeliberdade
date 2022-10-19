@@ -13,7 +13,7 @@ bodyClass: page-contact
         <div class="col-12 col-md-6 col-lg-4 mb-2">
           <div class="feature" style="background-color: #E6F4F1">
             {% if feature.image %}
-            <div class="feature-image">
+            <div class="feature-image mb-1">
                 <picture>
                     <source srcset="{{ feature.image | relative_url }}.webp" type="image/webp">
                     <source srcset="{{ feature.image | relative_url }}.jpg" type="image/jpeg">
@@ -38,7 +38,7 @@ bodyClass: page-contact
 
 <div class="container pb-6 pb-md-10">
     <div class="row justify-content-start">
-        <div class="col-12 col-md-8">
+        <div class="col-12">
             <div class="service service-single">
                 <div class="content mt-2">{{content}}</div>
             </div>
