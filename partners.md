@@ -1,5 +1,5 @@
 ---
-title: Os nossos parceiros
+title: Parceiros
 layout: partners
 bodyClass: page-about
 permalink: /partners/
