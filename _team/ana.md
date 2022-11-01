@@ -5,6 +5,7 @@ date: 2021-03-04T10:47:58+10:00
 draft: false
 image_home: "images/team/ana_home"
 image_contact: "images/team/ana_home"
+image_bio: "images/team/ana_big"
 jobtitle: "Psicóloga Clínica"
 linkedinurl: "/team/bio/ana/"
 email: anapeixotomagalhaes@gmail.com

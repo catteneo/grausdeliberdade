@@ -5,6 +5,7 @@ date: 2021-03-04T10:47:58+10:00
 draft: false
 image_home: 'images/team/sara_home'
 image_contact: 'images/team/sara_home'
+image_bio: 'images/team/sara_big'
 jobtitle: 'Psicóloga Clínica</br>Psicoterapeuta'
 linkedinurl: "/team/bio/sara/"
 email: saraoliveiracosta.psicologa@gmail.com 
