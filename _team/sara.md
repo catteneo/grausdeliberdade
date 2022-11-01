@@ -15,36 +15,32 @@ weight: 3
 layout: team
 ---
 
-Nascida no Porto, concluiu o Mestrado Integrado em Psicologia – área de especialização em Psicologia Clínica e da Saúde pela Faculdade de Psicologia e Ciências da Educação da Universidade do Porto, tendo-se especializado em Psicoterapia pela Sociedade Portuguesa de Psicoterapias Construtivistas.
+Psicóloga Clínica e Psicoterapeuta, com mestrado integrado em Psicologia, área de especialização em Psicologia Clínica e da Saúde, pela Faculdade de Psicologia e Ciências da Educação da Universidade do Porto, e com especialização em Psicoterapia pela Sociedade Portuguesa de Psicoterapias Construtivistas.
 
-Trabalha no SASUP – Serviços de Ação Social da Universidade do Porto, nesta instituição tem como principal atividade clínica a avaliação, a intervenção psicológica, a psicoterapia e a investigação em contexto de ensino superior; exerce também clínica privada na área da Psicoterapia e da Neuropsicologia com adultos e idosos.
+Trabalha atualmente em contexto de ensino superior público, no Núcleo de Saúde dos Serviços de Ação Social da Universidade do Porto, e neste contexto tem como principal atividade clínica a avaliação e intervenção psicológica e o acompanhamento psicoterapêutico com adultos e jovens adultos. Com experiência clínica em contexto privado, na área da avaliação e intervenção neuropsicológica na doença mental grave. Desde 2017 que integra a equipa da clínica organizacional outCOme na área da intervenção em crise e dos riscos psicossociais. 
 
-Com experiência profissional em neuropsicologia, avaliação neuropsicológica e intervenção neurocognitiva com enfoque na doença mental grave, perturbações neuropsiquiátricas, alterações da memória e alterações cognitivas decorrentes de perturbação neurológica e/ou psiquiátrica.
+Membro efetivo da Sociedade Portuguesa de Psicoterapia Construtivista e da Associação Portuguesa de Terapia do Comportamento. Participa em Grupos de Supervisão e Intervisão em Psicoterapia. Formadora assistente no Modelo dos Sistemas Familiares Internos.
 
-Membro efetivo da Sociedade Portuguesa de Psicoterapia Construtivista. Participa em Grupo de Supervisão e Intervisão em Psicoterapia. É membro efetivo da ordem dos Psicólogos Portugueses – Cédula Profissional nº 15952. Especialista em Psicologia Clínica e da Saúde, com especialidade avançada em Neuropsicologia e em Psicoterapia.
+É membro efetivo da ordem dos Psicólogos Portugueses – Cédula Profissional nº 15952. Especialista em Psicologia Clínica e da Saúde, com especialidade avançada em Neuropsicologia e em Psicoterapia.
 
 ### Formação em Psicoterapia
-Formação em Sistemas Familiares Internos (nível 3), certificada certificada pelo Internal Family Systems Institute. 
+2022 - Formação Especializada em Terapias Cognitivo-Comportamentais (APTC).
+<br>2022 - IFIO: Intimicy from Inside Out; formação em Terapia de Casal (IFS Institute).
+<br>2021 - Nivel III da IFS com Richard Schwartz (IFS Institute).
+<br>2021 - Nivel II da IFS sobre Depressão, Ansiedade e Vergonha (IFS Institute).
+<br>2019 - Nível II da IFS sobre Trauma e Neurociência, com Frank Andersen (IFS Institute).
+<br>2019 - Nivel II Módulo B da TFE: Criação de Significado e Recontar a Narrativa (SPTFE).
+<br>2019 - Nivel II Módulo A da TFE: Competências Avançadas de Empatia e Trabalho Relacional (SPTFE).
+<br>2018 - Nivel I do treino de Terapia Focada nas Emoções (TFE) com Robert Elliott (SPTFE).
+<br>2018 - Nível I do treino de Sistemas Internos Familiares (IFS) pelo Center for Self Leadership (IFS Institute).
 
-Workshop em Aplicações Clínicas da Teoria Polivagal: O Ritmo da Regulação, com Deb Dana, pela SPPC. 
-
-Formação em Terapia Focada nas Emoções (nível 2), pela Sociedade Portuguesa de Terapia Focada nas Emoções. 
-
-Especialização Avançada em Psicoterapia pela Sociedade Portuguesa de Psicoterapias Construtivistas (SPPC).
-
-### Especializações
-Pós-Graduação em Terapia Cognitivo Comportamental – As Três Gerações da Terapia do Comportamento pela CESPU.
-
-Formação em Mindfulness em Contextos de Saúde pela Faculdade de Medicina da Universidade do Porto.
-
-Formação em Psiquiatria e Saúde Mental pela Escola de Medicina da Universidade do Minho.
-
-Formação em Intervenção e Reabilitação Neuropsicológica com Doentes com AVC e TCE pelo Instituto CRIAP.
-
-Formação em Avaliação Psicológica pelo Instituto CRIAP.
-
-Formação em Demências: O Psicólogo no Rastreio, Avaliação e Intervenção pela OPP.
-
-Formação em Avaliação e Orientação Vocacional pelo Instituto CRIAP.
-
-Formação em Intervenção Psicológica em Situações de Crise pela OPP.
+### Formação em Psicologia e Neuropsicologia
+2021 - Mindfulness em Contextos de Saúde – Faculdade de Medicina da Universidade do Porto.
+<br>2020 - Curso de Psiquiatria e Saúde Mental – Escola de Medicina da Universidade do Minho.
+<br>2019 - Intervenção e Reabilitação Neuropsicológica em Doentes com AVC e TCE (CRIAP).
+<br>2018 - Avaliação Psicológica – WAIS (CRIAP).	
+<br>2018 - Demências: O Psicólogo no Rastreio, Avaliação e Intervenção (OPP).	
+<br>2018 - Avaliação e Orientação Vocacional e Profissional (CRIAP).	
+<br>2017 - Avaliação Psicológica – Memória de Trabalho e Figura Complexa de Rey (CRIAP).	
+<br>2017 - Avaliação Psicológica – NEO-PI-R (CRIAP).
+<br>2015 - Intervenção Psicológica em Situações de Crise (OPP).
