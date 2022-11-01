@@ -12,12 +12,12 @@ bodyClass: page-contact
         {% for feature in promoted_teams %}
         <div class="col-12 col-md-6 col-lg-4 mb-2">
           <div class="feature" style="background-color: #E6F4F1">
-            {% if feature.image %}
+            {% if feature.image_contact %}
             <div class="feature-image mb-1">
                 <picture>
-                    <source srcset="{{ feature.image | relative_url }}.webp" type="image/webp">
-                    <source srcset="{{ feature.image | relative_url }}.jpg" type="image/jpeg">
-                    <img alt="{{ feature.title }} logo" src="{{ feature.image | relative_url }}.jpg">
+                    <source srcset="{{ feature.image_contact | relative_url }}.webp" type="image/webp">
+                    <source srcset="{{ feature.image_contact | relative_url }}.jpg" type="image/jpeg">
+                    <img alt="{{ feature.title }} logo" src="{{ feature.image_contact | relative_url }}.jpg">
                 </picture>                                  
             </div>
             {% endif %}
@@ -49,6 +49,8 @@ bodyClass: page-contact
         <div class="col-12 col-lg-6 order-1 pb-2 pb-lg-0">
             <div class="contact">
                 <picture>
+                    <source srcset="{{ page.image | relative_url }}.webp" type="image/webp">
+                    <source srcset="{{ page.image | relative_url }}.jpg" type="image/jpeg">
                     <img alt="{{ page.title }}" class="img-fluid" src="{{ page.image | relative_url }}"/>
                 </picture>   
             </div>
