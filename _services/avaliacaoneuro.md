@@ -1,6 +1,8 @@
 ---
+header: avaliacaoneuro
 title: "Avaliação Neuropsicológica"
 longtitle: "Avaliação Neuropsicológica"
+image: "/images/services/avaliacaoneuro"
 date: 2018-11-18T12:33:46+10:00
 featured: true
 weight: 1
@@ -18,4 +20,4 @@ Pode ser utilizada para avaliar condições clínicas como:
 * epilepsia;
 * despiste de declínio cognitivo.
 
-Por fim, estes dados são combinados com uma entrevista estruturada e relatórios médicos, com o intuito de definir as necessidades de desenvolvimento e um plano de reabilitação adequado ao individuo avaliado.
+Os dados da avaliação estandardizada são combinados com uma entrevista estruturada e relatórios médicos, com o intuito de definir as necessidades de desenvolvimento e um plano de reabilitação adequado à pessoas e à sua condição biopsicossocial.

@@ -1,6 +1,22 @@
-images: 
+images:
   - image: /images/office/1.jpg
   - image: /images/office/2.jpg
   - image: /images/office/3.jpg
   - image: /images/office/espaco1.jpg
   - image: /images/office/espaco2.jpg
+  # - image: /images/office/new_image_1.png
+  - image: /images/office/new_image_2.jpg
+  # - image: /images/office/new_image_3.png
+  # - image: /images/office/new_image_4.png
+  # - image: /images/office/new_image_5.png
+  # - image: /images/office/new_image_6.png
+  # - image: /images/office/new_image_7.png
+  # - image: /images/office/new_image_8.png
+  # - image: /images/office/new_image_9.png
+  # - image: /images/office/new_image_10.png
+  # - image: /images/office/new_image_11.png
+  # - image: /images/office/new_image_12.png
+  # - image: /images/office/new_image_13.png
+  # - image: /images/office/new_image_14.png
+  - image: /images/office/new_image_15.jpg
+  # - image: /images/office/new_image_16.png

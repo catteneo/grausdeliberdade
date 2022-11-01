@@ -2,34 +2,27 @@
 layout: default
 ---
 
-<div class="container pb-6 pt-6 pt-md-10 pb-md-10">
-    <div class="row justify-content-start">
-        <div class="col-12 col-md-8">
-            <div class="service service-single">
-                <h1 class="title">{{page.title}}</h1>
-                <div class="content">{{content}}</div>
-            </div>
-        </div>
-    </div>
+<div class="container pt-md-6 pb-md-6">
+  <div class="content">{{content}}</div>
 </div>
 
 {% if site.data.partners %}
-<div class="strip strip-grey">
+<div class="strip strip-grey partner">
   <div class="container pt-6 pb-6 pt-md-10 pb-md-10">
     <div class="row justify-content-center">
 
       {% for partner in site.data.partners %}
       <div class="col-12 col-md-6 col-lg-4 mb-2">
-        <div class="partner">
+        <div class="partner-main"><a href="{{ site.baseurl }}{{ partner.url }}" target="blank">
           {% if partner.image %}
-          <div class="partner-image"><img alt="{{ partner.title }} logo" src="{{ partner.image | relative_url }}" /></div>
+          <div class="partner-image mb-1"><img alt="{{ partner.title }} logo" src="{{ partner.image | relative_url }}" /></div>
           {% endif %}
           {% if partner.title %}
           <!-- <h2 class="partner-title">{{ partner.title }}</h2> -->
           <h2><a href="{{ site.baseurl }}{{ partner.url }}" target="blank">{{partner.title}}</a></h2>
           {% endif %}
           <div class="partner-content">{{ partner.description }}</div>
-        </div>
+        </div></a>
       </div>
       {% endfor %}
 

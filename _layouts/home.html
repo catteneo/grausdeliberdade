@@ -14,12 +14,12 @@ bodyClass: page-home
     </div>
     {% endif %}
     <div class="row justify-content-center" style="text-align: center">
-      <div class="col-12">
+      <div class="col-12 mt-4 mb-4">
         {{ content }}
-        {% if site.homepage.show_call_box %}
-          {% include call.html show_button=true %}
-        {% endif %}
       </div>
+      <video class="background" loop muted autoplay playsinline preload="auto">
+        <source src="{{ page.intro_video }}" type="video/mp4">
+      </video>
     </div>
   </div>
 </div>
@@ -30,17 +30,21 @@ bodyClass: page-home
       {% assign promoted_teams = site.team | where: "promoted", true | sort: "weight" %}
       {% for team in promoted_teams %}
       <div class="col-12 col-md-6 col-lg-4 pb-4">
-        <div class="team-summary-home pb-2"><a href="{{ site.baseurl }}{{ team.linkedinurl }}">
+        <div class="team-summary-home pb-2"><a href="{{ site.baseurl }}/team/#{{team.header}}">
           <div class="team-meta">
               {% if team.image %}
               <div class="team-image">
-                  <img alt="{{ team.title }}" class="img-fluid pb-2" src="{{ team.image | relative_url }}" />
+                <picture>
+                    <source srcset="{{ team.image_home | relative_url }}.webp" type="image/webp">
+                    <source srcset="{{ team.image_home | relative_url }}.jpg" type="image/jpeg">
+                    <img alt="{{ team.title }}" class="img-fluid pb-2" src="{{ team.image_home | relative_url }}.jpg">
+                </picture>                          
               </div>
               {% endif %}
               <h2 class="team-name">{{ team.title }}</h2>
               <p class="team-description">{{ team.jobtitle }}</p>
               {% if team.linkedinurl %}
-              <a href="{{ site.baseurl }}{{ team.linkedinurl }}">Biografia</a>
+              <a href="{{ site.baseurl }}/team/#{{team.header}}">Biografia</a>
               {% endif %}
           </div>
         </div></a>
@@ -54,18 +58,18 @@ bodyClass: page-home
   <div class="container pt-4 pt-md-8 pb-4">
     <div class="row justify-content-center pb-4">
       <div class="col-auto">
-        <a class="button button-primary" href="{{site.baseurl}}/services">Conheça todos os Serviços</a>
+        <a class="button button-primary" href="{{site.baseurl}}/services/">Conheça todos os Serviços</a>
       </div>
     </div>  
     <div class="row justify-content-center">
       {% assign promoted_services = site.services | where: "featured", true | sort: "weight" %}
       {% for service in promoted_services %}
       <div class="col-12 col-md-6 col-lg-4 mb-2">
-        <div class="feature d-flex justify-content-center">
+        <div class="feature d-flex justify-content-center"><a href="{{ site.baseurl }}/services/#{{service.header}}" >
           <h2 class="feature-title mt-0 mb-0 mt-md-1 mb-md-1">
-            <a class="align-items-center" href="{{site.baseurl}}{{ service.url }}">{{ service.title }}</a>
+            <a class="align-items-center" href="{{site.baseurl}}/services/#{{service.header}}">{{ service.title }}</a>
           </h2>
-        </div>
+        </div></a>
       </div>
       {% endfor %}
 
@@ -73,6 +77,8 @@ bodyClass: page-home
   </div>
 </div>
 
-{% include carousel.html duration="7" %}
-
-<div class="strip-grey pb-4 pb-md-6"></div>
+<div class="strip strip-grey">
+  <div class="container pb-4 pb-md-6">
+    {% include carousel.html duration="7" %}
+  </div>
+</div>

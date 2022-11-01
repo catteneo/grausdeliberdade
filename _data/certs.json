@@ -19,9 +19,9 @@
     "link": "https://construtivistas.pt/",
     "image": "images/certs/construtivistas.png"
   },
-  {
-    "name": "SPNPsy",
-    "link": "http://spnpsy.rf.gd/",
-    "image": "images/certs/spnp.svg"
+  {	
+    "name": "SPNPsy",	
+    "link": "https://spnpsy.org/",	
+    "image": "images/certs/spnpsy.png"	
   }
 ]

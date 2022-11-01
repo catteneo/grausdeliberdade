@@ -93,3 +93,29 @@
     flex: 1 0 100%;
   }
 }
+
+.team-summary-content {
+  background-color: $white;
+  display: inline;
+  flex-wrap: wrap;
+  flex-direction: row;
+  text-align: center;
+  margin: 0 auto;
+  align-self: stretch;
+  .team-image {
+    img {
+      width: 100%;
+      height: 500px;
+      @include media-breakpoint-up(md) {
+        height: 400px;
+      }    
+      @include media-breakpoint-up(lg) {
+        height: 530px;
+      }    
+      @include media-breakpoint-up(xl) {
+        height: 650px;
+      }    
+      object-fit: cover;
+    }
+  }
+}
